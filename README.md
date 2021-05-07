@@ -1,2 +1,4 @@
 # hello-world
-lets learn!
+# lets learn!
+# I am Ilham, recently sparked my interest in learning Phyton!
+# warm regards
